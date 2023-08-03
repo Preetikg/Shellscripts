@@ -1,3 +1,3 @@
 echo "this is my hostname server"
-name=webserver
+name=$hostname
 echo "this is my hostname server $name"
